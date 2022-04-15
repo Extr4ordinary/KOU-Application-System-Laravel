@@ -7,7 +7,7 @@ This app made for a school project.
   <img src="images/Screenshot_2.png" width="250"/>
 </div>
 <div class="row">
-  <img src="images/Screenshot_3.png" width="450"/>
+  <img src="images/Screenshot_3.png" width="350"/>
   <img src="images/Screenshot_4.png" width="400"/>
 </div>
 
