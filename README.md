@@ -8,6 +8,6 @@ This app made for a school project.
 </div>
 <div class="row">
   <img src="images/Screenshot_3.png" width="300"/>
-  <img src="images/Screenshot_4.png" width="500"/>
+  <img src="images/Screenshot_4.png" width="400"/>
 </div>
 
