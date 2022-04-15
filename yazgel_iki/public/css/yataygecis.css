@@ -1,0 +1,399 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+  }
+
+  body{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(../bg.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+
+  .container{
+    width: 650px;
+    height: 580px;
+    margin: 8% auto;
+    background: #fff;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .container header{
+    color: #087944;
+    margin: 30 0 30px 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  h3{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #777;
+  }
+
+  .deneme {
+    width: 500px;
+    position: absolute;
+    top: 170px;
+    left: 55px;
+    transition: 0.5s;
+}
+.deneme input {
+    width: 100%;
+    padding: 20px 5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid#999;
+    outline: none;
+    background: transparent;
+}
+::placeholder {
+    color: #777;
+}
+.deneme button.btn-onay {
+    background: linear-gradient(to right, #566074, #566074);
+}
+.deneme button{
+    font-weight: 600;
+    width: 110px;
+    height: 35px;
+    margin: 0 10px;
+    background: linear-gradient(to right, #9ea5b1, #317254);
+    border-radius: 30px;
+    border: 0px;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.deneme button.btn-pdf{
+    background: linear-gradient(to right, #4e7966, #4e7966);
+  }
+
+  form input{
+    width: 100%;
+    padding: 20px 5px;
+    margin: 5px 0;
+    border: 0;
+    border-bottom: 1px solid#999;
+    outline: none;
+    background: transparent;
+  }
+  ::placeholder{
+    color: #777;
+  }
+
+
+  .btn-box{
+    width: 100%;
+    margin: 30px auto;
+    text-align: center;
+  }
+
+  form button{
+    font-weight: 600;
+    width: 110px;
+    height: 35px;
+    margin: 0 10px;
+    background: linear-gradient(to right, #9ea5b1, #317254);
+    border-radius: 30px;
+    border: 0px;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+  }
+
+
+  .basvuruturu1 .btn{
+	width: 100%;
+  height: 40px;
+	padding: 8px 10px;
+  margin-bottom: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+  .basvuruturu1 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.basvuruturu1 .btn.btn_following:hover{
+	background: #317254;
+}
+
+.basvuruturu2 .btn{
+	width: 100%;
+  height: 40px;
+	padding: 8px 10px;
+  margin-bottom: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+  .basvuruturu2 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.basvuruturu2 .btn.btn_following:hover{
+	background: #317254;
+}
+
+.basvuruturu3 .btn{
+	width: 100%;
+  height: 40px;
+	padding: 8px 10px;
+  margin-bottom: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+  .basvuruturu3 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.basvuruturu3 .btn.btn_following:hover{
+	background: #317254;
+}
+.basvuruturu4 .btn{
+	width: 100%;
+  height: 40px;
+	padding: 8px 10px;
+  margin-bottom: 20px;
+	border-radius: 10px;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+  .basvuruturu4 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.basvuruturu4 .btn.btn_following:hover{
+	background: #317254;
+}
+
+  #Form2{
+    left: 650px;
+  }
+  .bilgiler1 .btn{
+	width: 100px;
+  height: 40px;
+	padding: 8px 10px;
+  margin-left: 90px;
+	border-radius: 25px;
+	cursor: pointer;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+.bilgiler1 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.bilgiler1 .btn.btn_following:hover{
+	background: #317254;
+}
+.bilgiler2 .btn{
+	width: 100px;
+  height: 40px;
+	padding: 8px 10px;
+  margin-top: -40px;
+  margin-left: 210px;
+	border-radius: 25px;
+	cursor: pointer;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+.bilgiler2 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.bilgiler2 .btn.btn_following:hover{
+	background: #317254;
+}
+
+
+  input[type=text2bosluk2], select, textarea {
+    margin-top: 5px;
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  .btn-box1{
+    margin-left: 75px;
+  }
+  #Form3{
+    left: 650px;
+  }
+
+  #Form4{
+    left: 650px;
+  }
+  .bilgiler3 .btn{
+	width: 100px;
+  height: 40px;
+	padding: 8px 10px;
+  margin-top: 5px;
+  margin-left: 90px;
+	border-radius: 25px;
+	cursor: pointer;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+.bilgiler3 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.bilgiler3 .btn.btn_following:hover{
+	background: #317254;
+}
+.bilgiler4 .btn{
+	width: 100px;
+  height: 40px;
+	padding: 8px 10px;
+  margin-top: -40px;
+  margin-bottom: 5px;
+  margin-left: 210px;
+	border-radius: 25px;
+	cursor: pointer;
+	font-size: 14px;
+	text-align: center;
+  border: 1px solid green;
+}
+.bilgiler4 .btn.btn_following{
+	background: white;
+	color: black;
+}
+
+.bilgiler4 .btn.btn_following:hover{
+	background: #317254;
+}
+  #Form5{
+    left: 650px;
+  }
+
+  #Form6{
+    left: 650px;
+  }
+
+  #Form7{
+    left: 650px;
+  }
+
+  #Form8{
+    left: 650px;
+  }
+
+  #Form9{
+    left: 650px;
+  }
+
+  #Form10{
+    left: 650px;
+  }
+
+  #Form11{
+    left: 650px;
+  }
+
+  #Form12{
+    left: 650px;
+  }
+
+  #Form13{
+    left: 650px;
+  }
+
+  .dropdown3 {
+    padding-bottom: 7px;
+    color: #777;
+  }
+  .dropdown3 select {
+    color: #777;
+  }
+
+  .step-row{
+    width: 600px;
+    height: 40px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 -1px 2px -1px #000;
+    position: relative;
+  }
+
+  .step-col{
+    font-weight: 600;
+    width: 120px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+  }
+
+  #progress{
+    position: absolute;
+    height: 100%;
+    width: 35px;
+    background: linear-gradient(to right, #317254, #9ea5b1);
+  }
+
+  #progress::after{
+    content: '';
+    height: 0;
+    width: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    position: absolute;
+    right: -20px;
+    top: 0;
+    border-left: 20px solid #9ea5b1;
+  }
+
+  .btn-pdf{
+    background: linear-gradient(to right, #4e7966, #4e7966);
+  }
+
+  .btn-onay{
+    background: linear-gradient(to right, #566074, #566074);
+  }
+
+  #custom-button {
+    padding: 10px;
+    color: white;
+    background-color: #009578;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #custom-button:hover {
+    background-color: #00b28f;
+  }
+
+  #custom-text {
+    margin-left: 10px;
+    font-family: sans-serif;
+    color: #aaa;
+  }
+
+form button.selectBtn{
+  background: linear-gradient(to right, #317254, #317254);
+}

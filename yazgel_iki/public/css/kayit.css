@@ -1,0 +1,80 @@
+*
+{
+    margin:0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body
+{
+    background: #262626 url(../login-bg.jpeg);
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+form{
+    background: #262626;
+    padding: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,.8);
+    width:800px;
+    height:800px;
+    position:relative;
+    float: left;
+}
+
+div h2{
+    margin-top:0px;
+    font-size: 40px;
+    color:white;
+    margin-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+form input {
+    border:none;
+    background: none;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    outline: none;
+    padding:10px;
+    margin:5px;
+    color:white;
+    height:30px;
+    width:30%;
+    border-radius: 40px;
+    transition: 0.2s ease-in;
+    border:solid 2px #1B9CFC;
+}
+
+
+form input[type="submit"]{
+    border:solid 1px #55E6C1;
+    box-sizing: border-box;
+    height:50px;
+    width:40%;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover{
+    background: #55E6C1;
+    color:#182C61;
+}
+.link{
+    position:absolute;
+    bottom:3rem;
+    background:transparent;
+    padding:1.5rem 3.5rem;
+  }
