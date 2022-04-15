@@ -24,7 +24,7 @@ This app made for a school project.
 ## Platform Support
 
 **Platforms supported:**
- - Works fine in Web(currently only locally)
+ - Works fine in Web (currently only local)
 
 ## The Database Platform
 
