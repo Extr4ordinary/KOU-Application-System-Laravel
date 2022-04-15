@@ -29,5 +29,5 @@ This app made for a school project.
 ## The Database Platform
 
   - In the database part, we decided that it would be logical to use Firebase, as we wanted a cloud-based database and supported NoSQL structure
-  - The application's database is in a Firebase server.
+  - The application's database is in a Firebase server
 
