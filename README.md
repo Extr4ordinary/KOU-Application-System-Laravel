@@ -2,7 +2,7 @@
 
 This app made for a school project.
 
-<div class="row">
+<div class="column">
   <img images="Screenshot_1.png" width="200"/>
   <img images="Screenshot_2.png" width="200"/>
   <img images="Screenshot_3.png" width="200"/>
