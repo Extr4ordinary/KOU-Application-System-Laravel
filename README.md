@@ -11,3 +11,13 @@ This app made for a school project.
   <img src="images/Screenshot_4.png" width="400"/>
 </div>
 
+## What is the KOU Basvuru Sistemi? What can you do in it?
+
+**KOU is the abbreviation of Kocaeli University. It's a University at Turkey, Kocaeli. The app is made for collecting the applications made by students in KOU.**
+
+**You can:**
+ - If you're a student at there, you can create a personal account for make a application.
+ - You can upload the required files for certain application type (Transcript etc.)
+ - You can track the application made by yourself.
+ - If you're an admin (It can be a teacher, worker at the University etc.) You can filter and list the applications of all application types, track them and accept or reject the applications made by students.
+
