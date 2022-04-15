@@ -21,3 +21,13 @@ This app made for a school project.
  - You can track the application made by yourself.
  - If you're an admin (It can be a teacher, worker at the University etc.) You can filter and list the applications of all application types, track them and accept or reject the applications made by students.
 
+## Platform Support
+
+**Platforms supported:**
+ - Works fine in Web(currently only locally)
+
+## The Database Platform
+
+  - In the database part, we decided that it would be logical to use Firebase, as we wanted a cloud-based database and supported NoSQL structure
+  - The application's database is in a Firebase server.
+
